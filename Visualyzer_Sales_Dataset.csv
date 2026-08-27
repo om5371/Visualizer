@@ -1,0 +1,151 @@
+SalesID,Product,Region,Sales,Profit,Year
+101,Product D,North,823.0,216.0,2025
+102,Product E,North,565.0,179.0,2025
+103,Product C,North,,215.0,2021
+104,Product E,North,549.0,176.0,2025
+105,Product E,West Coast,604.0,202.0,2023
+106,Product B,North,632.0,,2024
+107,Product C,South,799.0,277.0,2021
+108,Product C,Central,698.0,203.0,2024
+109,Product C,North,812.0,,2025
+110,Product E,West Coast,560.0,158.0,2025
+111,Product D,West Coast,800.0,170.0,2021
+112,Product C,North,717.0,,2023
+113,Product E,Central,678.0,191.0,2022
+114,Product B,North,648.0,173.0,2021
+115,Product D,West Coast,871.0,293.0,2022
+116,Product B,East,642.0,157.0,2022
+117,Product D,South,846.0,235.0,2023
+118,Product E,West Coast,579.0,176.0,2022
+119,Product A,North,,176.0,2022
+120,Product D,South,869.0,233.0,2023
+121,Product B,North,717.0,233.0,2022
+122,Product E,North,525.0,165.0,2022
+123,Product D,East,914.0,191.0,2022
+124,Product A,South,571.0,118.0,2021
+125,Product A,South,535.0,156.0,2021
+126,Product C,East,728.0,183.0,2021
+127,Product C,West Coast,791.0,183.0,2023
+128,Product B,North,659.0,189.0,2025
+129,Product D,Central,788.0,197.0,2022
+130,Product D,North,864.0,242.0,2022
+131,Product C,North,795.0,213.0,2023
+132,Product D,West Coast,884.0,254.0,2022
+133,Product D,North,824.0,214.0,2021
+134,Product A,East,496.0,151.0,2025
+135,Product C,East,736.0,167.0,2024
+136,Product E,South,730.0,222.0,2022
+137,Product C,Central,688.0,180.0,2021
+138,Product E,North,566.0,187.0,2024
+139,Product A,North,565.0,156.0,2025
+140,Product B,West Coast,645.0,223.0,2024
+141,Product D,East,841.0,244.0,2021
+142,Product A,Central,630.0,147.0,2024
+143,Product D,South,815.0,263.0,2023
+144,Product B,East,649.0,163.0,2024
+145,Product B,South,658.0,165.0,2022
+146,Product A,West Coast,517.0,105.0,2022
+147,Product B,West Coast,592.0,167.0,2023
+148,Product E,North,610.0,,2021
+149,Product B,Central,722.0,182.0,2022
+150,Product D,South,866.0,289.0,2025
+151,Product D,East,853.0,187.0,2022
+152,Product D,West Coast,853.0,212.0,2022
+153,Product D,North,839.0,208.0,2021
+154,Product E,North,647.0,138.0,2024
+155,Product C,South,729.0,198.0,2022
+156,Product A,West Coast,495.0,150.0,2023
+157,Product D,Central,786.0,217.0,2024
+158,Product B,West Coast,653.0,145.0,2025
+159,Product D,South,892.0,228.0,2021
+160,Product B,South,659.0,132.0,2025
+161,Product B,West Coast,,210.0,2024
+162,Product D,South,868.0,184.0,2024
+163,Product E,West Coast,607.0,175.0,2024
+164,Product B,East,683.0,237.0,2025
+165,Product B,West Coast,703.0,197.0,2024
+166,Product D,West Coast,811.0,274.0,2025
+167,Product B,South,556.0,130.0,2024
+168,Product B,South,635.0,199.0,2023
+169,Product D,North,809.0,226.0,2024
+170,Product D,North,883.0,272.0,2025
+171,Product A,East,521.0,109.0,2022
+172,Product E,North,524.0,116.0,2024
+173,Product E,West Coast,577.0,126.0,2022
+174,Product B,South,590.0,178.0,2023
+175,Product E,North,663.0,216.0,2021
+176,Product B,North,668.0,208.0,2023
+177,Product A,East,575.0,117.0,2024
+178,Product D,East,871.0,287.0,2022
+179,Product D,West Coast,883.0,223.0,2022
+180,Product D,South,895.0,232.0,2025
+181,Product E,East,578.0,124.0,2022
+182,Product A,North,493.0,153.0,2025
+183,Product E,South,566.0,128.0,2021
+184,Product E,South,598.0,170.0,2024
+185,Product A,North,447.0,145.0,2025
+186,Product A,East,595.0,126.0,2021
+187,Product A,North,474.0,132.0,2022
+188,Product A,South,573.0,134.0,2022
+189,Product D,Central,843.0,211.0,2021
+190,Product C,Central,761.0,206.0,2022
+191,Product C,West Coast,731.0,185.0,2021
+192,Product A,North,,165.0,2025
+193,Product C,North,731.0,198.0,2025
+194,Product C,West Coast,727.0,209.0,2021
+195,Product A,West Coast,514.0,159.0,2025
+196,Product C,West Coast,811.0,230.0,2025
+197,Product E,South,614.0,176.0,2025
+198,Product B,North,658.0,187.0,2023
+199,Product B,South,614.0,157.0,2024
+200,Product A,West Coast,540.0,135.0,2022
+201,Product D,North,810.0,271.0,2023
+202,Product A,South,530.0,154.0,2025
+203,Product D,South,801.0,189.0,2021
+204,Product B,West Coast,713.0,195.0,2025
+205,Product A,North,519.0,129.0,2024
+206,Product E,West Coast,564.0,191.0,2025
+207,Product C,North,696.0,139.0,2021
+208,Product D,Central,819.0,191.0,2024
+209,Product C,East,730.0,186.0,2025
+210,Product C,East,748.0,204.0,2024
+211,Product A,East,524.0,171.0,2022
+212,Product C,West Coast,685.0,146.0,2022
+213,Product E,Central,539.0,172.0,2025
+214,Product C,North,777.0,161.0,2024
+215,Product A,South,545.0,177.0,2021
+216,Product E,North,625.0,129.0,2025
+217,Product B,South,681.0,138.0,2022
+218,Product C,North,756.0,230.0,2022
+219,Product A,Central,500.0,174.0,2025
+220,Product B,South,657.0,219.0,2024
+221,Product B,West Coast,705.0,201.0,2022
+222,Product D,North,832.0,280.0,2024
+223,Product E,North,613.0,123.0,2022
+224,Product C,South,749.0,259.0,2022
+225,Product A,West Coast,604.0,165.0,2023
+226,Product D,West Coast,822.0,253.0,2022
+227,Product E,Central,646.0,208.0,2021
+228,Product D,West Coast,834.0,256.0,2025
+229,Product E,West Coast,572.0,160.0,2025
+230,Product E,West Coast,604.0,163.0,2024
+231,Product C,East,763.0,248.0,2022
+232,Product E,Central,676.0,155.0,2021
+233,Product D,North,862.0,297.0,2024
+234,Product E,South,607.0,186.0,2023
+235,Product C,North,813.0,186.0,2024
+236,Product C,Central,774.0,240.0,2024
+237,Product D,South,824.0,230.0,2022
+238,Product B,Central,704.0,215.0,2023
+239,Product B,West Coast,620.0,195.0,2024
+240,Product E,South,574.0,122.0,2021
+241,Product A,West Coast,516.0,142.0,2021
+242,Product E,North,562.0,190.0,2025
+243,Product D,North,863.0,214.0,2023
+244,Product D,South,,242.0,2023
+245,Product D,South,710.0,181.0,2025
+246,Product D,Central,839.0,224.0,2024
+247,Product D,Central,829.0,234.0,2023
+248,Product C,West Coast,785.0,221.0,2021
+249,Product B,South,627.0,,2021
+250,Product D,North,951.0,287.0,2022
